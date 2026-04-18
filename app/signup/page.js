@@ -9,6 +9,7 @@ export default function SignupPage() {
         <h1 className="text-2xl font-bold text-center mb-6">
           Create Account
         </h1>
+
         <SignupForm />
       </div>
     </div>
